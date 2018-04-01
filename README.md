@@ -1,2 +1,2 @@
 # Hackerrank
-Practicing hackerrank problems solving
+Practicing hackerrank problem solving
