@@ -18,6 +18,9 @@ import sys
             next = start +1, if the remaining.startswith(next), then move pointer and check until exhausted
             if it does not start then change the base from 1 digit to 2 digits
         eg. 7 87980 -> 78 7980
+
+        Worst complexity is O(N**2)
+
 '''
 
 def is_beautiful(start, rest):
